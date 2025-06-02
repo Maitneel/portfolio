@@ -1,0 +1,35 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+img {
+    object-fit: contain;
+}
+
+.row-divider {
+    margin: 3rem 0;
+}
+
+.works-title {
+    font-size: 50px;
+}
+
+.github-link {
+    margin: 1rem 0;
+}
+
+.github-link-icon {
+    width: auto;
+    height: 1rem;
+}
+
+.github-link-url {
+    margin: 0.5rem;
+    height: 1rem;
+    text-decoration: underline;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
