@@ -16,7 +16,7 @@ img {
 }
 
 .github-link {
-    margin: 1rem 0;
+    margin: 0;
 }
 
 .github-link-icon {
@@ -25,7 +25,6 @@ img {
 }
 
 .github-link-url {
-    margin: 0.5rem;
     height: 1rem;
     text-decoration: underline;
 }
